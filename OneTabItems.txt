@@ -1,0 +1,211 @@
+https://github.com/richeney/arm/blob/master/nestedTemplates/vnet-spoke.json | arm/vnet-spoke.json at master · richeney/arm · GitHub
+
+https://shell.azure.com/?tid=9d3e1ad4-5f8c-4351-89ef-61c692cba791 | Azure Cloud Shell
+https://portal.azure.com/#blade/HubsExtension/Resources/resourceType/Microsoft.Resources%2Fresources | All resources - Microsoft Azure
+https://docs.microsoft.com/en-us/azure/devops/repos/git/set-up-credential-managers?view=vsts | Connect to your Git repos using credential managers - Azure Repos | Microsoft Docs
+https://www.google.com/search?q=vsts+repository+in+azure+cloudshell&rlz=1C1GCEA_enUS780US780&oq=vsts+repository+in+azure+cloudshell&aqs=chrome..69i57.9151j0j7&sourceid=chrome&ie=UTF-8 | vsts repository in azure cloudshell - Google Search
+https://www.visualstudiogeeks.com/Azure/UsingAzureShellWithVSTSGitRepositoriesTwoWayUpdates | Visual Studio Geeks | Using Azure Shell with VSTS Git Repositories and VS Code
+https://dev.azure.com/LogixTree/_git/KPC1?path=%2Fvirtual-machine-sshkey-no-public-ip.json&version=GBmaster | virtual-machine-sshkey-no-public-ip.json - Repos
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes | Linux VM sizes in Azure | Microsoft Docs
+https://portal.azure.com/#blade/HubsExtension/DeploymentDetailsBlade/template/id/%2Fsubscriptions%2F1d2e8f67-2cf3-4a28-8f35-56ee9a651fcb%2FresourceGroups%2Fkpd-mgmt-rg-wus%2Fproviders%2FMicrosoft.Resources%2Fdeployments%2FMicrosoft.ManagedDisk-20181216182426 | Template - Microsoft Azure
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-linked-templates | Link templates for Azure deployment | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/using-managed-disks-template-deployments | Using managed disks in Azure Resource Manager templates for Windows VMs | Microsoft Docs
+https://www.google.com/search?q=subtemplate+arm&rlz=1C1GCEA_enUS780US780&oq=subtemplate+arm&aqs=chrome..69i57.3582j0j7&sourceid=chrome&ie=UTF-8 | subtemplate arm - Google Search
+https://docs.microsoft.com/en-us/azure/templates/microsoft.compute/2018-04-01/disks#ImageDiskReference | Microsoft.Compute/disks 2018-04-01 - Azure template | Microsoft Docs
+https://www.google.com/search?q=nested+templates+ARM&rlz=1C1GCEA_enUS780US780&oq=nested+templates+ARM+&aqs=chrome..69i57j69i60.9815j0j7&sourceid=chrome&ie=UTF-8 | nested templates ARM - Google Search
+https://azurecitadel.github.io/workshops/arm/arm-lab7-nesting/#example-of-a-master-template-calling-linked-templates | ARM Lab 7: Nesting templates • Azure Citadel
+
+https://portal.azure.com/#home | Home - Microsoft Azure
+https://shell.azure.com/?tid=9d3e1ad4-5f8c-4351-89ef-61c692cba791 | Azure Cloud Shell
+
+https://drudgereport.com/ | DRUDGE REPORT 2019®
+http://trimax.in/what-we-do/telecom-to-business/iot-solutions/ | Internet Of Things -IOT - Trimax IT Infrastructures & Services Ltd | Trimax IT Infrastructure & Services Ltd.
+https://www.trimaxamericas.com/journey.html | Trimax Americas || Our Journey
+http://trimax.in/who-we-are/company-profile/ | Our Profile - Trimax IT Infrastructures & Services Ltd | Trimax IT Infrastructure & Services Ltd.
+http://trimax.in/who-we-are/company-profile/ | Our Profile - Trimax IT Infrastructures & Services Ltd | Trimax IT Infrastructure & Services Ltd.
+chrome://downloads/ | Downloads
+
+https://drudgereport.com/ | DRUDGE REPORT 2019®
+chrome://settings/ | Settings
+
+https://portal.azure.com/#blade/HubsExtension/Resources/resourceType/Microsoft.Resources%2Fsubscriptions%2FresourceGroups | Resource groups - Microsoft Azure
+https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest | Overview of the Azure CLI | Microsoft Docs
+https://docs.microsoft.com/en-us/powershell/azure/overview?view=azurermps-6.13.0 | Overview of Azure PowerShell | Microsoft Docs
+https://docs.microsoft.com/en-us/cli/azure/ext/signalr/signalr?view=azure-cli-latest | az signalr | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/cloud-shell/persisting-shell-storage | Persist files for Bash in Azure Cloud Shell | Microsoft Docs
+https://docs.microsoft.com/en-us/powershell/azure/new-azureps-module-az?view=azurermps-6.13.0 | Introducing the Azure PowerShell Az module | Microsoft Docs
+https://www.google.com/search?q=azure+signalr&rlz=1C1GCEA_enUS780US780&oq=azure+signalr&aqs=chrome..69i57j69i60l2.5207j0j7&sourceid=chrome&ie=UTF-8 | azure signalr - Google Search
+https://github.com/Azure/azure-libraries-for-net | Azure/azure-libraries-for-net: Azure libraries for .Net
+
+https://docs.microsoft.com/en-us/azure/cloud-shell/overview | Azure Cloud Shell overview | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/cloud-shell/features#tools | Azure Cloud Shell features | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy | Copy or move data to Azure Storage with AzCopy on Windows | Microsoft Docs
+https://docs.microsoft.com/en-us/powershell/azure/new-azureps-module-az?view=azurermps-6.13.0 | Introducing the Azure PowerShell Az module | Microsoft Docs
+https://docs.pexip.com/admin/azure_disk_images.htm#preparing | Obtaining and preparing disk images for Azure deployments
+https://www.google.com/search?num=50&newwindow=1&rlz=1C1GCEA_enUS780US780&ei=b_cTXIncDuC_0PEPxbyooA8&q=c%23+regex+replace+multiple+matches&oq=regex+replace+characters+code+sample+c%23&gs_l=psy-ab.1.3.0i71l8.0.0..113089...0.0..0.0.0.......0......gws-wiz.qkTQhLI2oac | c# regex replace multiple matches - Google Search
+https://stackoverflow.com/questions/45713271/finding-and-replacing-multiple-matches-in-a-single-line-with-regex | c# - Finding and replacing multiple matches in a single line with regex - Stack Overflow
+
+https://portal.azure.com/#blade/HubsExtension/DeploymentDetailsBlade/overview/id/%2Fsubscriptions%2F1d2e8f67-2cf3-4a28-8f35-56ee9a651fcb%2FresourceGroups%2Frg-Pexip-Global%2Fdeployments%2FMicrosoft.StorageAccount-20181214121609/packageId/Microsoft.StorageAccount-ARM/packageIconUri/https%3A%2F%2F106c4.wpc.azureedge.net%2F80106C4%2FGallery-Prod%2Fcdn%2F2015-02-24%2Fprod20161101-microsoft-windowsazure-gallery%2FMicrosoft.StorageAccount-ARM.3.0.5%2FIcons%2FMedium.png/primaryResourceId/%2Fsubscriptions%2F1d2e8f67-2cf3-4a28-8f35-56ee9a651fcb%2Fresourcegroups%2Frg-Pexip-Global%2Fproviders%2FMicrosoft.Storage%2FstorageAccounts%2Fprovisionpexipstore | Microsoft.StorageAccount-20181214121609 - Microsoft Azure
+
+https://portal.azure.com/#create/Microsoft.ResourceGroup | Resource group - Microsoft Azure
+
+https://docs.pexip.com/admin/azure_preparation.htm | Preparing your Azure environment
+https://www.google.com/search?num=50&newwindow=1&rlz=1C1GCEA_enUS780US780&ei=e9MTXLvFCoqItQXj1ZjIAQ&q=automotive+IOT+hardware&oq=automotive+IOT+hardware&gs_l=psy-ab.3..33i299l2.125711.126726..127544...0.0..0.86.556.8......0....1..gws-wiz.......0i71j33i160.wnHqm5z2aHs | automotive IOT hardware - Google Search
+https://www.calamp.com/solutions/automotive-iot/ | Automotive IoT - CalAmp
+https://www.disruptordaily.com/top-10-iot-watch-automotive-industry/ | Top 10 Internet of Things Companies to Watch in the Automotive Industry - Disruptor Daily
+https://www.korewireless.com/industries/iot-automotive-solutions | IoT Automotive Solutions
+
+https://github.com/Microsoft/vscode/wiki/How-to-Contribute#build-and-run | How to Contribute · Microsoft/vscode Wiki
+https://flaviocopes.com/vscode/#index | A Visual Studio Code Tutorial
+https://code.visualstudio.com/docs/editor/debugging | Debugging in Visual Studio Code
+https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
+
+https://docs.infoblox.com/display/NAZIG/Performing+vDiscovery+on+VNets | Performing vDiscovery on VNets
+https://docs.infoblox.com/display/NAZIG/About+Infoblox+vNIOS+for+Azure | About Infoblox vNIOS for Azure
+https://infoblox-poc.kpmg.msft.cloud/ui/OB8F7uWgAMKI9HOGh6_j1fXPCfEqyMDOCr6oMmajKh95ch-fe_bWKRJ5a1R5g9QL9pgd5CG9nOm_rECBvtTqmuen9BDAPlzknjLFOI830Tg/OB834/oMm8e/5ch19 | Infoblox Grid Manager - Session Expired
+https://www.google.com.mx/search?q=infoblox+wapi&rlz=1C1GCEA_enUS780US780&oq=infoblox+wapi&aqs=chrome..69i57j69i60l3.3119j0j7&sourceid=chrome&ie=UTF-8 | infoblox wapi - Google Search
+https://ipam.illinois.edu/wapidoc/ | Infoblox WAPI documentation — Infoblox WAPI 2.7.3 documentation
+https://www.infoblox.com/wp-content/uploads/infoblox-deployment-infoblox-rest-api.pdf | infoblox-deployment-infoblox-rest-api.pdf
+https://docs.microsoft.com/en-us/azure/active-directory/develop/v1-oauth2-on-behalf-of-flow | Azure Active Directory service-to-service authentication that uses the OAuth2.0 On-Behalf-Of draft specification | Microsoft Docs
+
+https://portal.azure.com/#@azure.genvio.net/resource/subscriptions/cdaabd37-36e9-480a-99c4-9b4de0a42ed2/resourceGroups/Test-Infoblox/providers/Microsoft.Compute/virtualMachines/infoblox-vm/overview | POC-Dashboard-InfoBlox - Microsoft Azure
+https://www.infoblox.com/ | Infoblox | Next Level Networking - Secure DNS, DHCP & IPAM (DDI)
+https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-portal | Connect virtual networks with virtual network peering - tutorial - Azure portal | Microsoft Docs
+https://github.com/Azure/azure-linux-extensions/tree/master/CustomScript | azure-linux-extensions/CustomScript at master · Azure/azure-linux-extensions
+
+https://docs.microsoft.com/en-us/azure/networking/networking-overview | Azure networking | Microsoft Docs
+https://www.infoblox.com/products/ddi/ | Infoblox DDI | DDI (Secure DNS, DHCP, and IPAM) | Infoblox
+https://www.infoblox.com/products/ddi-public-hybrid-cloud/ | DDI for Hybrid and Public Cloud | DDI (Secure DNS, DHCP, and IPAM) | Infoblox
+https://www.infoblox.com/products/microsoft-azure/ | Azure | DDI (Secure DNS, DHCP, and IPAM) | Infoblox
+https://www.infoblox.com/resources/videos/infoblox-ddi-appliances-and-the-azure-marketplace/ | Infoblox DDI appliances and the Azure Marketplace - Infoblox
+https://www.infoblox.com/wp-content/uploads/infoblox-datasheet-infoblox-ddi-for-microsoft-azure.pdf | infoblox-datasheet-infoblox-ddi-for-microsoft-azure.pdf
+https://docs.infoblox.com/display/NAZIG/Performing+vDiscovery+on+VNets#PerformingvDiscoveryonVNets-ConfiguringDNSResolver | Performing vDiscovery on VNets
+
+https://medium.com/@jeffrey.allen.lewis/http-requests-compared-why-axios-is-better-than-node-fetch-more-secure-can-handle-errors-better-39fde869a4a6 | HTTP Requests Compared: Why Axios Is Better Than Node-Fetch (Automatic Transformations, More…
+https://docs.npmjs.com/cli-documentation/ | https://docs.npmjs.com/cli-documentation/
+https://blog.falcross.com/introducing-restyped-end-to-end-typing-for-rest-apis-with-typescript/ | Introducing RESTyped: End-to-end typing for REST APIs with TypeScript
+https://github.com/Microsoft?utf8=%E2%9C%93&q=typed&type=&language= | Microsoft
+https://www.getpostman.com/apps | Postman | Apps
+https://www.getpostman.com/pricing | Postman | Plans & Pricing
+https://www.google.com/search?q=erick+gamma&rlz=1C1GCEA_enUS780US780&oq=erick+gamma&aqs=chrome..69i57.11519j0j7&sourceid=chrome&ie=UTF-8 | erick gamma - Google Search
+https://github.com/Microsoft/azure-devops-node-api/blob/e852eb96355ff697564e16cb02578450c3076445/test/units/tests.ts | azure-devops-node-api/tests.ts at e852eb96355ff697564e16cb02578450c3076445 · Microsoft/azure-devops-node-api
+https://docs.microsoft.com/en-us/azure/devops/release-notes/2018/sep-10-azure-devops-launch#administration | Introducing Azure DevOps | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/devops/pipelines/library/service-endpoints?view=vsts#sep-githubent | Service connections in Azure Pipelines and Team Foundation Server - Azure Pipelines & TFS | Microsoft Docs
+https://www.google.com/search?num=50&newwindow=1&rlz=1C1GCEA_enUS780US780&biw=1646&bih=838&ei=Kk0CXLi5A4zysQXcoYXYBA&q=yaml+vsts+tutorial&oq=yaml+vsts&gs_l=psy-ab.1.1.0j0i22i30l3j0i22i10i30j0i22i30l5.30810.36976..40735...1.0..0.82.633.10......0....1..gws-wiz.......0i71j0i67j0i131j33i160.VI3Zy1764dw | yaml vsts tutorial - Google Search
+https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/pipelines-sign-up?toc=/azure/devops/pipelines/toc.json&bc=/azure/devops/boards/pipelines/breadcrumb/toc.json&view=vsts | Sign up for Azure Pipelines - Azure DevOps Services | Microsoft Docs
+https://www.google.com/search?q=gulp+nodejs&rlz=1C1GCEA_enUS780US780&oq=gulp+nodejs&aqs=chrome..69i57.2015j0j7&sourceid=chrome&ie=UTF-8 | gulp nodejs - Google Search
+https://www.google.com/search?q=Gulp+JS&rlz=1C1GCEA_enUS780US780&oq=Gulp+JS+&aqs=chrome..69i57j69i60l3.4287j0j4&sourceid=chrome&ie=UTF-8 | Gulp JS - Google Search
+https://css-tricks.com/gulp-for-beginners/ | Gulp for Beginners | CSS-Tricks
+https://24ways.org/2013/grunt-is-not-weird-and-hard/ | Grunt for People Who Think Things Like Grunt are Weird and Hard ? 24 ways
+https://www.google.com/search?q=--save-dev&rlz=1C1GCEA_enUS780US780&oq=--save-dev&aqs=chrome..69i57.4799j0j7&sourceid=chrome&ie=UTF-8 | --save-dev - Google Search
+https://www.google.com/search?q=install+nodejs+application+from+repository&rlz=1C1GCEA_enUS780US780&oq=install+nodejs+application+from+repository&aqs=chrome..69i57.21815j0j4&sourceid=chrome&ie=UTF-8 | install nodejs application from repository - Google Search
+https://www.phusionpassenger.com/library/walkthroughs/deploy/nodejs/ownserver/standalone/oss/el7/deploy_app.html | Deploying a Node.js app on Red Hat 7 / CentOS 7 (with RPM) on a Linux/Unix production server with Passenger open source in Standalone mode - Passenger + Node.js deployment tutorial - Passenger Library
+https://www.google.com/search?num=50&newwindow=1&rlz=1C1GCEA_enUS780US780&ei=DFkCXIKJDqLl8AOworvABw&q=deploying+nodejs+app+from+azure+storage+to+a+linux+virtual+machine&oq=deploying+nodejs+app+from+azure+storage+to+a+linux+virtual+machine&gs_l=psy-ab.3...132421.135220..135596...0.0..0.95.460.6......0....1..gws-wiz.......0i71j33i10.crRqptbW0gs | deploying nodejs app from azure storage to a linux virtual machine - Google Search
+https://code.visualstudio.com/tutorials/static-website/code-change | Make a code change
+
+https://portal.azure.com/#@azure.genvio.net/dashboard/private/bbac145a-a3ce-419f-8c20-b26a107ec00f | Dashboard - Microsoft Azure
+https://portal.azure.com/#blade/Microsoft_Azure_ActivityLog/ActivityLogBlade/queryInputs/%7B%22user%22%3A%22%40me%22%7D | Activity log - Microsoft Azure
+https://docs.microsoft.com/en-us/azure/dns/dns-alias | Azure DNS alias records overview | Microsoft Docs
+https://github.com/Azure/custom-script-extension-linux | GitHub - Azure/custom-script-extension-linux: Azure Custom Script Virtual Machine Extension
+https://infoblox-poc.southcentralus.cloudapp.azure.com/ui/vY6OJJ8yD8Sm2L9XCfCoWqsvAMPKM_agpeyFvNqfFu3dNOSDwhXCb5_QRp02Iusl4cc41AJ23A3Tz0lcTy3hx0-R7mTDKoXgQj469N_16fo/vY6f2/mTD6c/MPK97 | Infoblox Grid Manager - Session Expired
+http://jodies.de/ipcalc?host=10.0.0.0&mask1=16&mask2= | IP Calculator / IP Subnetting
+https://www.google.com/search?q=infoblox+configuration&rlz=1C1GCEA_enUS780US780&oq=infoblox+configuration&aqs=chrome..69i57j69i60.12447j0j7&sourceid=chrome&ie=UTF-8 | infoblox configuration - Google Search
+https://www.google.com/search?q=grid+cloud+api+infoblox&rlz=1C1GCEA_enUS780US780&oq=grid+cloud+api+infoblox&aqs=chrome..69i57.5743j0j7&sourceid=chrome&ie=UTF-8 | grid cloud api infoblox - Google Search
+https://docs.infoblox.com/display/NAG8/About+Cloud+API+Service | About Cloud API Service
+https://www.google.com/search?num=50&newwindow=1&rlz=1C1GCEA_enUS780US780&ei=0LL-W-CTGsWf0gKPlY3QDw&q=sh+file+linux+example&oq=sh+file+linu&gs_l=psy-ab.1.1.0i67j0j0i22i30l8.21352.23376..27123...0.0..0.149.837.11j1......0....1..gws-wiz.......0i71j0i131.N8GRVxVmC50 | sh file linux example - Google Search
+https://linuxhint.com/30_bash_script_examples/#t26 | 30 Bash Script Examples – Linux Hint
+https://www.google.com/search?q=bash+yum+install&rlz=1C1GCEA_enUS780US780&oq=bash+yum+install+&aqs=chrome..69i57.18711j0j4&sourceid=chrome&ie=UTF-8 | bash yum install - Google Search
+https://superuser.com/questions/466825/linux-shell-installing-packages-automaticc | bash - linux shell installing packages automaticc - Super User
+https://www.google.com/search?q=azure+machine+sizes&rlz=1C1GCEA_enUS780US780&oq=azure+machine+sizes+&aqs=chrome..69i57.5159j0j7&sourceid=chrome&ie=UTF-8 | azure machine sizes - Google Search
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes-general | Azure Linux VM sizes - General purpose | Microsoft Docs
+https://portal.azure.com/#@azure.genvio.net/resource/subscriptions/cdaabd37-36e9-480a-99c4-9b4de0a42ed2/resourceGroups/Test-VM-Provision/providers/Microsoft.Compute/virtualMachines/rhel-poc-client/overview | Connect to virtual machine - Microsoft Azure
+
+https://www.google.com/search?num=50&newwindow=1&rlz=1C1GCEA_enUS780US780&ei=Jqv7W6qpIYmctgWW5pL4Bw&q=Convert+from+UEFI+to+bios+images&oq=Convert+from+UEFI+to+bios+images&gs_l=psy-ab.3...6902.18629..19222...0.0..0.131.591.7j1......0....1..gws-wiz.......0i71.Orc3Oxw8f8Q | Convert from UEFI to bios images - Google Search
+https://4sysops.com/archives/how-to-convert-windows-8-from-bios-to-uefi/ | How to convert Windows 8 from UEFI to BIOS – 4sysops
+https://neosmart.net/wiki/convert-gpt-to-mbr/ | Convert GPT to MBR
+https://www.google.com/search?q=custom+agent+azure&rlz=1C1GCEA_enUS780US780&oq=custom+agent+azure&aqs=chrome..69i57.5054j0j7&sourceid=chrome&ie=UTF-8 | custom agent azure - Google Search
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/overview | Overview of Linux VMs in Azure | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services | Azure and AWS services compared - multicloud | Microsoft Docs
+https://www.google.com/search?q=azure+availability+zone&rlz=1C1GCEA_enUS780US780&oq=azure+availability+zone&aqs=chrome..69i57.5415j0j7&sourceid=chrome&ie=UTF-8 | azure availability zone - Google Search
+https://azure.microsoft.com/en-us/updates/azure-availability-zones-ga/ | General availability: Azure Availability Zones in select regions | Azure updates | Microsoft Azure
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/network-overview?toc=%2Fen-us%2Fazure%2Fvirtual-machine-scale-sets%2FTOC.json&bc=%2Fen-us%2Fazure%2Fbread%2Ftoc.json | Virtual networks and Windows virtual machines in Azure | Microsoft Docs
+https://www.google.com/search?q=redundancy+across+regions+azure&rlz=1C1GCEA_enUS780US780&oq=redundancy+across+regions+azure&aqs=chrome..69i57.7575j0j7&sourceid=chrome&ie=UTF-8 | redundancy across regions azure - Google Search
+https://azure.microsoft.com/en-us/blog/azure-availability-zones-expand-with-new-services-and-to-new-regions-in-europe-and-united-states/ | Azure Availability Zones expand with new services and to new regions | Blog | Microsoft Azure
+https://docs.microsoft.com/en-us/azure/architecture/resiliency/ | Designing resilient applications for Azure | Microsoft Docs
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/serverless/event-processing | Serverless event processing using Azure Functions | Microsoft Docs
+https://www.google.com/search?num=50&newwindow=1&rlz=1C1GCEA_enUS780US780&ei=aVz8W7XtHo3KswW2kazADw&q=azure+network+through+on+premises+to+internet&oq=azure+network+through+on+premises+to+internet&gs_l=psy-ab.3..33i160.10414.12001..12492...0.0..0.117.991.11j1....2..0....1..gws-wiz.......0i71j33i22i29i30j33i299.FZw0ljSqBvA | azure network through on premises to internet - Google Search
+https://docs.microsoft.com/en-us/azure/best-practices-network-security?toc=/azure/security/toc.json&bc=/azure/security/breadcrumb/toc.json | Azure network security best practices | Microsoft Docs
+https://www.google.com/search?num=50&newwindow=1&rlz=1C1GCEA_enUS780US780&ei=QGX8W6bxAsrKsQXo_Ya4Dg&q=yum+command+in+linux&oq=yum+command+&gs_l=psy-ab.1.0.0l10.79886.87629..90163...0.0..0.107.880.11j1......0....1..gws-wiz.......0i71j0i131j0i67.b12XXMBvL7Q | yum command in linux - Google Search
+https://www.tecmint.com/20-linux-yum-yellowdog-updater-modified-commands-for-package-mangement/ | 20 YUM Commands for Linux Package Mangement
+
+https://azure.microsoft.com/en-us/pricing/details/monitor/ | Pricing - Azure Monitor | Microsoft Azure
+https://www.google.com.mx/search?q=paas+vs+iaas&tbm=isch&tbs=rimg:CU37d6BtZCyvIjjKKmzBNNoACeW9mT8QWinXR37v-ymL04cR1k3L0P7LBN9LkCM_1WBBil63pLAD6pZoz8rkRmXq-XCoSCcoqbME02gAJEbI2lYgB7tEpKhIJ5b2ZPxBaKdcRMIEfdt67DnMqEglHfu_17KYvThxGV2jwxV8ZF_1ioSCRHWTcvQ_1ssEEfWtAPXCH7RJKhIJ30uQIz9YEGIRF9X3mR-u4gIqEgmXreksAPqlmhGJePmok6zEcCoSCTPyuRGZer5cEZ7rnPKSvZf4&tbo=u&sa=X&ved=2ahUKEwj65b3F--PeAhWB34MKHWU4A9YQ9C96BAgBEBg&biw=1646&bih=887&dpr=1.75#imgdii=Dtidg4MykpCD-M:&imgrc=VXO8cmxfdHXwKM: | paas vs iaas - Google Search
+http://www.hitachi.com/rev/archive/2017/r2017_01/112/index.html?WT.mc_id=ksearch_104 | Development of New Enterprise Applications to Achieve Financial Innovation : Hitachi Review
+https://www.google.com.mx/search?q=how+to+create+a+public+calendar+to+share+with+external+office+365&rlz=1C1GCEA_enUS780US780&oq=how+to+create+a+public+calendar+to+share+with+external+office+365&aqs=chrome..69i57.18702j0j7&sourceid=chrome&ie=UTF-8 | how to create a public calendar to share with external office 365 - Google Search
+https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps | Connect to Exchange Online PowerShell | Microsoft Docs
+https://www.google.com.mx/search?rlz=1C1GCEA_enUS780US780&ei=-pL0W7vDA86WsQXgsIjYAQ&q=new-emailaddresspolicy+office+365&oq=New-EmailAddressPolicy&gs_l=psy-ab.1.0.0i71l8.0.0..3366...0.0..0.0.0.......0......gws-wiz.nafr-Phbr7M | new-emailaddresspolicy office 365 - Google Search
+
+https://www.google.com/search?q=put+aoemi+partition+asssitant+in+usb+drive&rlz=1C1GCEA_enUS780US780&oq=put+aoemi+partition+asssitant+in+usb+drive&aqs=chrome..69i57.14715j0j7&sourceid=chrome&ie=UTF-8 | put aoemi partition asssitant in usb drive - Google Search
+https://www.disk-partition.com/lib/wintogo.html | Create Windows 10/8/8.1/7 Bootable USB with AOMEI Partition Assistant
+https://www.google.com/search?q=windows+to+go&rlz=1C1GCEA_enUS780US780&oq=windows+to+go&aqs=chrome..69i57.2111j0j7&sourceid=chrome&ie=UTF-8 | windows to go - Google Search
+https://en.wikipedia.org/wiki/Windows_To_Go | Windows To Go - Wikipedia
+https://www.google.com/search?num=50&newwindow=1&rlz=1C1GCEA_enUS780US780&q=vmware+workstation+14+boot+from+usb&sa=X&ved=0ahUKEwio0Mil49reAhVpmK0KHZu3D-0Q1QIIyQMoAA&biw=1646&bih=887 | vmware workstation 14 boot from usb - Google Search
+https://www.aioboot.com/en/ | AIO Boot - All-in-One bootable software | Multiboot USB Creator
+https://www.google.com/search?q=parent+permission+to+take+children+abroad+example&rlz=1C1GCEA_enUS780US780&oq=parent+permission+to+take+children+abroad+example&aqs=chrome..69i57.7491j0j7&sourceid=chrome&ie=UTF-8 | parent permission to take children abroad example - Google Search
+https://www.amazon.com/review/review-your-purchases/ref=oh_aui_rev_shipment_o04_s00?_encoding=UTF8&asins=B0799G5DDG&channel=YAcc-wr | Review Your Purchases
+
+https://www.google.com/search?q=CQRS+architecture+azure&rlz=1C1GCEA_enUS780US780&oq=CQRS+architecture+azure&aqs=chrome..69i57.2410417j0j7&sourceid=chrome&ie=UTF-8 | CQRS architecture azure - Google Search
+https://docs.microsoft.com/en-us/azure/event-hubs/ | Azure Event Hubs Documentation - Tutorials, quickstarts, API Reference | Microsoft Docs
+https://www.google.com/search?q=event+grid&rlz=1C1GCEA_enUS780US780&oq=event+grid&aqs=chrome..69i57.1912j0j7&sourceid=chrome&ie=UTF-8 | event grid - Google Search
+https://azure.microsoft.com/en-us/overview/serverless-computing/ | Serverless Computing | Microsoft Azure
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/serverless/event-processing | Serverless event processing using Azure Functions | Microsoft Docs
+https://www.google.ca/search?q=powerbi+icon&rlz=1C1GCEA_enUS780US780&oq=powerbi+icon&aqs=chrome..69i57.4742j0j9&sourceid=chrome&ie=UTF-8 | powerbi icon - Google Search
+
+https://www.google.com/search?q=infastructure+provisioning+framework+workflow&rlz=1C1GCEA_enUS780US780&oq=infastructure+provisioning+framework+workflow&aqs=chrome..69i57.17584j0j7&sourceid=chrome&ie=UTF-8 | infastructure provisioning framework workflow - Google Search
+https://docs.chef.io/workflow.html | An Overview of Workflow in Chef Automate — Chef Docs
+https://hypergrid.com/provisioning-infrastructure-and-app-services-in-minutes/ | How A Large Bank’s I&O Team Self-Provisions Infrastructure and App Services in Minutes
+
+https://www.google.ca/search?rlz=1C1GCEA_enUS780US780&ei=n5_qW56gNZGAtQXpuI3QBw&q=cqrs+architecture+diagram+azure&oq=cqrs+architecture+diagram+azure&gs_l=psy-ab.3...6842.8248..8473...0.0..0.206.773.0j5j1......0....1..gws-wiz.......0i71j0i22i30j33i22i29i30j33i160.mEqBrOrvtV8 | cqrs architecture diagram azure - Google Search
+https://medium.com/@richard.j.gobbett/serverless-cqrs-in-azure-p1-e0f2c423f071 | Serverless CQRS in Azure – Rich James – Medium
+
+https://www.google.com/search?q=infoblox+vm+azure&rlz=1C1GCEA_enUS780US780&oq=infoblox+vm+azure&aqs=chrome..69i57.7756j0j7&sourceid=chrome&ie=UTF-8 | infoblox vm azure - Google Search
+https://www.infoblox.com/products/microsoft-azure/ | Azure | DDI (Secure DNS, DHCP, and IPAM) | Infoblox
+https://info.infoblox.com/resources-evaluations-ddi-eval | Infoblox DNS, DHCP and IP Address Management (DDI) Evaluations
+https://portal.azure.com/#create/infoblox.infoblox-nios-forvnios | Basics - Microsoft Azure
+https://www.google.com/search?q=infoblox+nios+model&rlz=1C1GCEA_enUS780US780&oq=infoblox+nios+model&aqs=chrome..69i57.5319j0j7&sourceid=chrome&ie=UTF-8 | infoblox nios model - Google Search
+https://docs.infoblox.com/display/NVIG/About+Infoblox+NIOS+Virtual+Appliance+for+VMware | About Infoblox NIOS Virtual Appliance for VMware
+https://www.google.com/search?q=NIOS+model+InfoBlox&rlz=1C1GCEA_enUS780US780&oq=NIOS+model+InfoBlox&aqs=chrome..69i57.8534j0j7&sourceid=chrome&ie=UTF-8 | NIOS model InfoBlox - Google Search
+https://www.infoblox.com/resources/?category=Demos | Resources - Infoblox
+https://www.google.com/search?q=Infoblox+api&rlz=1C1GCEA_enUS780US780&oq=Infoblox+api&aqs=chrome..69i57.4151j0j7&sourceid=chrome&ie=UTF-8 | Infoblox api - Google Search
+https://community.infoblox.com/t5/API-Examples/API-get-DHCP-lease-related-info/m-p/13853#M69 | Solved: API get DHCP lease related info - Infoblox Experts Community
+https://hotair.com/ | HotAir — Politics, Culture, Media, 2018, Breaking News from a conservative viewpoint
+https://www.google.com/search?q=CQRS+architecture+azure&rlz=1C1GCEA_enUS780US780&oq=CQRS+architecture+azure&aqs=chrome..69i57.2410417j0j7&sourceid=chrome&ie=UTF-8 | CQRS architecture azure - Google Search
+https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/web-queue-worker | Web-Queue-Worker architecture style | Microsoft Docs
+
+https://blogs.msdn.microsoft.com/premier_developer/2018/06/15/container-why-not-app-services/ | Container? Why not App Services? – Premier Developer
+
+https://www.google.com/search?q=bitnami&rlz=1C1GCEA_enUS780US780&oq=bitnami&aqs=chrome..69i57.1575j0j7&sourceid=chrome&ie=UTF-8 | bitnami - Google Search
+https://bitnami.com/sign_in | Bitnami Sign in
+https://kubeless.io/ | Kubeless
+https://kubeless.io/docs/pubsub-functions/ | Kubeless
+https://github.com/kubeless/kubeless/blob/master/README.md | kubeless/README.md at master · kubeless/kubeless
+https://docs.bitnami.com/azure-templates/infrastructure/nodejs/ | Bitnami Node.js Stack for Microsoft Azure Multi-Tier Solutions
+https://azure.bitnami.com/ | Bitnami Microsoft Azure Launchpad
+https://bitnami.com/stack/elasticsearch/helm | Helm Charts for Elasticsearch
+https://kubernetes.io/docs/setup/minikube/#minikube-features | Running Kubernetes Locally via Minikube - Kubernetes
+https://www.google.com/search?q=openshift+vs+docker&rlz=1C1GCEA_enUS780US780&oq=openshift+vs+docker&aqs=chrome..69i57.7383j0j7&sourceid=chrome&ie=UTF-8 | openshift vs docker - Google Search
+
+https://www.google.com/search?q=bootcamp+in+vmware&rlz=1C1GCEA_enUS780US780&oq=bootcamp+in+vmware&aqs=chrome..69i57.7935j0j4&sourceid=chrome&ie=UTF-8 | bootcamp in vmware - Google Search
+https://www.google.com/search?q=aoeimi&rlz=1C1GCEA_enUS780US780&oq=aoeimi&aqs=chrome..69i57.3486j0j9&sourceid=chrome&ie=UTF-8 | aoeimi - Google Search
+https://www.google.com/search?q=GPT+efi+partition+windows+10&rlz=1C1GCEA_enUS780US780&oq=GPT+efi+partition+windows+10&aqs=chrome..69i57.62806j0j4&sourceid=chrome&ie=UTF-8 | GPT efi partition windows 10 - Google Search
+https://www.disk-partition.com/articles/msr-efi-partitions-only-supported-on-gpt-disks-4348.html?hot=true | MSR and EFI Partitions Are Only Supported on GPT Disks
+
+https://hotair.com/ | HotAir — Politics, Culture, Media, 2018, Breaking News from a conservative viewpoint
+
+https://www.reneelab.com/change-windows-10-password-safe-mode.html?__c=1#m2 | How to Change Windows 10 Password in Safe Mode - Rene.E Laboratory
+https://www.reneelab.com/system-rescue | Reset Windows Login Password, Fix System Boot Failure and So On - Free Download
+https://www.google.com/search?q=net+user+command&rlz=1C1GCEA_enUS780US780&oq=net+user+command&aqs=chrome..69i57j69i65.3838j0j7&sourceid=chrome&ie=UTF-8 | net user command - Google Search
+https://www.lifewire.com/net-user-command-2618097 | Net User Command (Examples, Options, Switches, & More)
+https://www.google.com/search?num=50&newwindow=1&rlz=1C1GCEA_enUS780US780&ei=8I3YW4WxELPRjgSKuI3QAw&q=+windows+10+safe+mode+start&oq=+windows+10+safe+mode+start&gs_l=psy-ab.3..0i67j0l6j0i30j0i5i30j0i8i30.83945.83945..85767...0.0..0.103.103.0j1......0....1..gws-wiz.......0i71.cmYQBl1H6C0 | windows 10 safe mode start - Google Search
+https://www.digitalcitizen.life/4-ways-boot-safe-mode-windows-10 | 8 ways to boot into Windows 10 Safe Mode | Digital Citizen
+https://www.google.com/search?num=50&newwindow=1&rlz=1C1GCEA_enUS780US780&ei=rrDYW-bGB4e6sgWbxbiIDg&q=windows+10+gpo+disable+cd+rom+access&oq=windows+10+gpo+disable+cd+rom+access&gs_l=psy-ab.3..33i22i29i30l2.16390.33602..35180...3.0..0.204.3432.34j4j1......0....1..gws-wiz.......0j0i71j0i67j0i131j0i13j0i22i30j33i299j33i160j33i10.8URgKPP_Uyc | windows 10 gpo disable cd rom access - Google Search
