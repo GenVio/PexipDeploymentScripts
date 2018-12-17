@@ -1,0 +1,113 @@
+{
+  "id": "/subscriptions/1d2e8f67-2cf3-4a28-8f35-56ee9a651fcb/resourceGroups/kpd-mgmt-rg-wus/providers/Microsoft.Resources/deployments/Microsoft.Template",
+  "name": "Microsoft.Template",
+  "properties": {
+    "templateHash": "16860015383176530510",
+    "parameters": {
+      "vmImageURI": {
+        "type": "String",
+        "value": "https://kpsimgsawus.blob.core.windows.net/pexipimages/pexip-infinity-20-0-0-45400-0-0-management-node.vhd"
+      },
+      "storageContainerName": {
+        "type": "String",
+        "value": "vmdiskspexipmgmt"
+      },
+      "bootStorageName": {
+        "type": "String",
+        "value": "kpsimgsawus2"
+      },
+      "bootstorageContainerName": {
+        "type": "String",
+        "value": "mgmtbootlogs"
+      },
+      "dnsDomainNameLabel": {
+        "type": "String",
+        "value": "kpd-mgmt-vm1-wus"
+      },
+      "ipAddress": {
+        "type": "String",
+        "value": "10.16.17.37"
+      },
+      "adminCredential": {
+        "type": "SecureString"
+      },
+      "vmSize": {
+        "type": "String",
+        "value": "Standard_A4_v2"
+      },
+      "networkName": {
+        "type": "String",
+        "value": "kpd-vnet-wus"
+      },
+      "networkSubnetName": {
+        "type": "String",
+        "value": "subnet-mgmt"
+      },
+      "networkSecurityGroupName": {
+        "type": "String",
+        "value": "nsg-stub-deploy-wus"
+      },
+      "networkResourceGroup": {
+        "type": "String",
+        "value": "kpd-network-rg-global"
+      }
+    },
+    "mode": "Incremental",
+    "debugSetting": {
+      "detailLevel": "RequestContent, ResponseContent"
+    },
+    "provisioningState": "Failed",
+    "timestamp": "2018-12-16T22:51:10.7054121Z",
+    "duration": "PT11.7397278S",
+    "correlationId": "9a6415f7-5361-4276-b7ff-372587675248",
+    "providers": [
+      {
+        "namespace": "Microsoft.Network",
+        "resourceTypes": [
+          {
+            "resourceType": "networkInterfaces",
+            "locations": [
+              "westus"
+            ]
+          }
+        ]
+      },
+      {
+        "namespace": "Microsoft.Compute",
+        "resourceTypes": [
+          {
+            "resourceType": "virtualMachines",
+            "locations": [
+              "westus"
+            ]
+          }
+        ]
+      }
+    ],
+    "dependencies": [
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/1d2e8f67-2cf3-4a28-8f35-56ee9a651fcb/resourceGroups/kpd-mgmt-rg-wus/providers/Microsoft.Network/networkInterfaces/vmnic-kpd-mgmt-vm1-wus",
+            "resourceType": "Microsoft.Network/networkInterfaces",
+            "resourceName": "vmnic-kpd-mgmt-vm1-wus"
+          }
+        ],
+        "id": "/subscriptions/1d2e8f67-2cf3-4a28-8f35-56ee9a651fcb/resourceGroups/kpd-mgmt-rg-wus/providers/Microsoft.Compute/virtualMachines/kpd-mgmt-vm1-wus",
+        "resourceType": "Microsoft.Compute/virtualMachines",
+        "resourceName": "kpd-mgmt-vm1-wus"
+      }
+    ],
+    "error": {
+      "code": "DeploymentFailed",
+      "message": "At least one resource deployment operation failed. Please list deployment operations for details. Please see https://aka.ms/arm-debug for usage details.",
+      "details": [
+        {
+          "code": "BadRequest",
+          "message": "{\r\n  \"error\": {\r\n    \"code\": \"InvalidParameter\",\r\n    \"message\": \"The value of parameter bootDiagnostics.storageAccountUri is invalid.\",\r\n    \"target\": \"bootDiagnostics.storageAccountUri\"\r\n  }\r\n}"
+        }
+      ]
+    },
+    "validationLevel": "Template"
+  }
+}

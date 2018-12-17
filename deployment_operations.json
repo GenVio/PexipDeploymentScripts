@@ -1,0 +1,56 @@
+[
+  {
+    "id": "/subscriptions/1d2e8f67-2cf3-4a28-8f35-56ee9a651fcb/resourceGroups/kpd-mgmt-rg-wus/providers/Microsoft.Resources/deployments/Microsoft.Template/operations/12A0F45BA51EBABF",
+    "operationId": "12A0F45BA51EBABF",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Failed",
+      "timestamp": "2018-12-16T22:51:07.3746306Z",
+      "duration": "PT4.1168285S",
+      "trackingId": "b959162a-e41d-4874-b12f-5a744558ea1b",
+      "statusCode": "BadRequest",
+      "statusMessage": {
+        "error": {
+          "code": "InvalidParameter",
+          "message": "The value of parameter bootDiagnostics.storageAccountUri is invalid.",
+          "target": "bootDiagnostics.storageAccountUri"
+        }
+      },
+      "targetResource": {
+        "id": "/subscriptions/1d2e8f67-2cf3-4a28-8f35-56ee9a651fcb/resourceGroups/kpd-mgmt-rg-wus/providers/Microsoft.Compute/virtualMachines/kpd-mgmt-vm1-wus",
+        "resourceType": "Microsoft.Compute/virtualMachines",
+        "resourceName": "kpd-mgmt-vm1-wus"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/1d2e8f67-2cf3-4a28-8f35-56ee9a651fcb/resourceGroups/kpd-mgmt-rg-wus/providers/Microsoft.Resources/deployments/Microsoft.Template/operations/8E9AAB4296BC37E7",
+    "operationId": "8E9AAB4296BC37E7",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2018-12-16T22:51:02.9065048Z",
+      "duration": "PT1.1029499S",
+      "trackingId": "04de3a2b-3b3b-43d4-899b-d55c35bc0fad",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/1d2e8f67-2cf3-4a28-8f35-56ee9a651fcb/resourceGroups/kpd-mgmt-rg-wus/providers/Microsoft.Network/networkInterfaces/vmnic-kpd-mgmt-vm1-wus",
+        "resourceType": "Microsoft.Network/networkInterfaces",
+        "resourceName": "vmnic-kpd-mgmt-vm1-wus"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/1d2e8f67-2cf3-4a28-8f35-56ee9a651fcb/resourceGroups/kpd-mgmt-rg-wus/providers/Microsoft.Resources/deployments/Microsoft.Template/operations/08586566062265119552",
+    "operationId": "08586566062265119552",
+    "properties": {
+      "provisioningOperation": "EvaluateDeploymentOutput",
+      "provisioningState": "Failed",
+      "timestamp": "2018-12-16T22:51:10.6873839Z",
+      "duration": "PT3.2632532S",
+      "trackingId": "514ba27a-09ce-4482-9362-695dedfbae7c",
+      "statusCode": "Conflict",
+      "statusMessage": "Template output evaluation skipped: at least one resource deployment operation failed. Please list deployment operations for details. Please see https://aka.ms/arm-debug for usage details."
+    }
+  }
+]

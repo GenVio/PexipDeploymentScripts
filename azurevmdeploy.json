@@ -1,0 +1,114 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+    "contentVersion": "0.5.0.0",
+    "parameters": {
+        "vmSpecs": {
+            "type": "object",
+            "defaultValue": {
+                "vmName":"",                
+                "userName":"",
+                "userPassword":"",                
+                "vmLocation":"",
+                "vmSize":"",                
+                "vmImageURI": "",
+                "storageContainerName":"",
+                "vmIpAddress":"",
+                "vmNetworkResourceGroupName":"",                
+                "vmNetworkName":"",
+                "vmNetworkSubnetName":"",
+                "vmNetworkSecurityGroupName":""
+            },
+            "metadata": { 
+                "description": "Pexip ARM model for deployment of environments"
+            }
+        }
+    },
+    "variables": {
+      "nicDeploymentName": "[concat('deployNic-', parameters('vmSpecs').vmSpecs.name)]",
+      "nicARMUri": "[uri(deployment().properties.templateLink.uri, 'network-interface.json')]",
+      "osDiskARMUri": "[uri(deployment().properties.templateLink.uri, 'managed-disk.json')]",
+      "diskDeploymentName": "[concat('deployNic-', parameters('vmSpecs').vmSpecs.name,'-osDisk')]",   
+      "vmDeploymentName": "[concat('deployVM-', parameters('vmSpecs').vmName)]",   
+      "vmARMUri": "[uri(deployment().properties.templateLink.uri, 'v2-virtual-machine-password-no-public-ip.json')]"  
+    },
+    "resources": [
+      {
+        "name": "[variables('nicDeploymentName')]",
+        "type": "Microsoft.Resources/deployments",
+        "apiVersion": "2017-05-10",
+        "resourceGroup": "[parameters('hub').resourceGroup]",
+        "properties": {
+          "mode": "Incremental",
+          "parameters": {
+            "vnetName": {
+                "value": "[parameters('hub').vnet.name]"
+            },
+            "vNetAddressPrefixes": {
+                "value": "[parameters('hub').vnet.addressPrefixes]"
+            },
+            "subnets": {
+                "value": "[parameters('hub').subnets]"
+            }
+          },
+          "templateLink": {
+            "uri": "[variables('nicARMUri')]",
+            "contentVersion": "0.5.0.0"
+          }
+        }
+      },
+      {
+        "name": "[variables('diskDeploymentName')]",
+        "type": "Microsoft.Resources/deployments",
+        "apiVersion": "2017-05-10",
+        "resourceGroup": "[parameters('hub').resourceGroup]",
+        "properties": {
+          "mode": "Incremental",
+          "parameters": {
+            "vnetName": {
+                "value": "[parameters('hub').vnet.name]"
+            },
+            "vNetAddressPrefixes": {
+                "value": "[parameters('hub').vnet.addressPrefixes]"
+            },
+            "subnets": {
+                "value": "[parameters('hub').subnets]"
+            }
+          },
+          "templateLink": {
+            "uri": "[variables('osDiskARMUri')]",
+            "contentVersion": "0.5.0.0"
+          }
+        }
+      },     
+      {
+        "name": "[variables('vmDeploymentName')]",
+        "type": "Microsoft.Resources/deployments",
+        "apiVersion": "2017-05-10",
+        "resourceGroup": "[parameters('hub').resourceGroup]",
+        "properties": {
+          "mode": "Incremental",
+          "parameters": {
+            "vnetName": {
+                "value": "[parameters('hub').vnet.name]"
+            },
+            "vNetAddressPrefixes": {
+                "value": "[parameters('hub').vnet.addressPrefixes]"
+            },
+            "subnets": {
+                "value": "[parameters('hub').subnets]"
+            }
+          },
+          "templateLink": {
+            "uri": "[variables('vmARMUri')]",
+            "contentVersion": "0.5.0.0"
+          }
+        }
+      }
+    ],
+    "outputs": {
+      "vpnGatewayPipId": {
+          "type": "string",
+          "value": "[reference(variables('hubDeploymentName')).outputs.gatewayPipId.value]"
+      }
+    }
+  }
